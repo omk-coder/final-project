@@ -36,7 +36,7 @@ function StreamWatch() {
   
     <Container
       fluid
-      style={{ background: "black", overflow: "hidden", height: "100%" }}
+      style={{ background: "black", overflow: "hidden", height: "100%", width: "100%" }}
     >
       <h1 style={{ background: "green" }}>Watch Stream</h1>
       <Scrollbars class="w-full h-300">

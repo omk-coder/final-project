@@ -59,7 +59,7 @@ function StreamWatch() {
               }}
             >
               <iframe
-                src={`https://player.twitch.tv/?channel=${channel.name}&parent=localhost&muted=true`}
+                src={`https://player.twitch.tv/?channel=${channel.name}&parent=Chain-checkmate.vercel.app&muted=true`}
                 height="250" // Adjust the height and width as needed
                 width="350"
                 allowFullScreen

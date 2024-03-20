@@ -93,7 +93,7 @@ const NFTFetcher = () => {
     <Scrollbars class="w-auto h-300">
    
     <div className="p-4 ">
-      <h1 className="text-4xl  text-center ">NFT Marketplace</h1>
+      <h1 className="text-4xl  text-center underline decoration-sky-500 underline-offset-8">NFT Marketplace</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-7 overflow-hidden ">
         {nFTs.map((nft) => (
           <div className="max-w-md mx-auto rounded-xl shadow-lg p-6 border-8 border-dashed mb-16">

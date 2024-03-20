@@ -60,9 +60,9 @@ export default function HomePage() {
       <div className="flex items-center justify-between bg-black px-10 py-1">
         <div className="flex items-center gap-2">
           {/* logo */}
-          <img src="/imgs/logo.png" className="h-10"></img>
+          <img src="/imgs/finalLogo.jpg" className="h-10"></img>
           {/* Brankd Name */}
-          <div className="text-white text-2xl font-manrope font-bold">ChainCheckmate</div>
+          <div className="text-white text-2xl font-manrope font-bold">Chain-Checkmate</div>
         </div>
 
         <div

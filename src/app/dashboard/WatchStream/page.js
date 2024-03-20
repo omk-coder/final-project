@@ -38,7 +38,7 @@ function StreamWatch() {
       fluid
       style={{ background: "black", overflow: "hidden", height: "100%", width: "100%" }}
     >
-      <h1 style={{ background: "green" }}>Watch Stream</h1>
+      <h1 className=" ml-4 underline decoration-sky-500 underline-offset-8 text-3xl font-500 ">Watch Stream</h1>
       <Scrollbars class="w-full h-300">
       <Row
         xs={2}

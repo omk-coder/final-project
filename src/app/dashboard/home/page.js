@@ -6,7 +6,7 @@ export default function Dashboard() {
   return (
     <div className="flex flex-col w-full px-14 py-10 font-space-grotesk bg-[#100303] space-y-6">
       {/* Heading */}
-      <div className="text-3xl font-500">User Dashboard</div>
+      <div className="text-3xl font-600 underline decoration-sky-500 underline-offset-8 ">User Dashboard</div>
       {/* Game type */}
 
       <div className="flex flex-col space-y-5 z-10 bg-[#100303]">
@@ -54,8 +54,8 @@ export default function Dashboard() {
         </div>
       </div>
 
-      <div className="flex flex-col space-y-5">
-        <div className="text-xl font-300">Game Analysis</div>
+      <div className="flex flex-col space-y-10 ">
+        <div className="text-3xl font-600 underline decoration-sky-500 underline-offset-8 mt-10 ">Game Analysis</div>
         <div className="div flex w-full space-x-10">
           {/* Rating Card */}
           <div className="flex flex-col border border-solid border-lightsteelblue py-2 bg-lavender-300 rounded-xl">
@@ -75,7 +75,7 @@ export default function Dashboard() {
               <div className="text-sm font-500">Rewards</div>
             </div>
             <div className="flex items-center justify-center text-5xl font-bold px-10 py-10">
-              $150
+              150
             </div>
           </div>
         </div>

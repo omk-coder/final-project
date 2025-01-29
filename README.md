@@ -4,11 +4,7 @@
 
 CryptoCheckmate is a decentralized chess battle platform where players compete in real-time matches, leveraging blockchain technology and NFT rewards.
 
-<img width="950" alt="image" src="https://github.com/user-attachments/assets/c0a96c6c-79be-4b6f-ba64-34f5fd8f9b27" />
-
-
-
-
+https://github.com/user-attachments/assets/8f1b8477-69c7-4e34-81c8-98d9c69f2b1e
 
 ## Demo
 you can see my portfolio by visiting the [demo link.](https://crypto-checkmate.vercel.app/)
